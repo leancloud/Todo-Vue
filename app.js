@@ -1,7 +1,7 @@
 AV.init({
-  appId: 'URT0el3tAwObIYw42koEI5k5-9Nh9j0Va',
-  appKey: 'HEGz3d9QQ7ktjqowxTeyebHs',
-  serverURL: 'https://urt0el3t.lc-cn-e1-shared.com',
+  appId: 'hUS2ivTtgrBmMt9gSwILcA6s-9Nh9j0Va',
+  appKey: 'QgRx9llGeIOPnRB3SCxpBjKJ',
+  serverURL: 'https://hus2ivtt.lc-cn-e1-shared.com',
 });
 
 const Todo = AV.Object.extend('Todo');
